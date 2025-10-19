@@ -1,6 +1,6 @@
 # HR Questions
 
-There are no absolute right answers, responses here do **NOT** reflect how I would personally answer them. Wan to know my real answers? Interview me :D
+There are no absolute right answers; responses here do **NOT** reflect how I would personally answer them. Wan to know my real answers? Interview me :D
 
 ---
 
@@ -8,32 +8,33 @@ There are no absolute right answers, responses here do **NOT** reflect how I wou
 - **Tell me about yourself.**
 
 I'm a penetration tester with a degree in computer science from one of the top Russian universities.
-I’ve worked with XYZ Company, where I gained hands-on experience in AI and computer vision and also delivered LangChain courses.
-Earlier, I worked as a system administrator in Russia.
-I’m passionate about using my mix of cybersecurity and AI skills in a dynamic team to create impatful results.
+I’ve worked with XYZ Company, where I gained hands-on experience in AI, computer vision, and also delivered LangChain courses.
+Earlier, I worked as an administrator in Russia.
+I’m passionate about using my mix of cybersecurity and AI skills in a dynamic team to create impactful results.
 
 - **Why do you want to work here/ what do you know about this organization?**
 
-“I’m really excited about this company because of [mention something specific about the company’s culture, mission, or projects].
+I’m really excited about this company because of [mention something specific about the company’s culture, mission, or projects].
 I’ve been following your work on [specific project or initiative], and I’m impressed by how you [mention something positive you’ve noticed].
-I believe my skills in [relevant skills] would be a great fit for your team, especially in [specific area you’re excited to work in].”
+I believe my skills in [relevant skills] would be a great fit for your team, especially in [specific area you’re excited to work in].
 
 - **Why should we hire you?**
 
-Because im also a fast learner and highlt adaptable which means i can quckly get up to speed and start contributing.
-I bring a unique blend of Problem solving, programming and AI and cybersecurity.
-For example, in my last job, I [give a brief example of a significant achievement].
+I bring a unique blend of problem-solving, programming and AI, and cybersecurity.
+And also because, i'm a fast learner and highly adaptable, which means I can quickly get up to speed and start contributing.
+For example, in my last job, I had to learn a new framework just for one project, which was an amazing experience to have.
 I’m also really passionate about [mention something related to the job], and I’m excited to bring my skills and enthusiasm to your team.
 
 - **Why are you leaving your current job?**
 
 I’m looking for new challenges and opportunities to grow.
-While I’ve learned a lot at my current job, I feel like it’s time to move on to a role that allows me to [mention something specific you’re looking for, like more responsibility, different projects, etc.].
+While I’ve learned a lot at my current job, I feel like it’s time to move on to a role that allows me to
+[mention something specific you’re looking for, like more responsibility, different projects, etc.].
 I’m excited about this position because it offers [something specific about the job you’re applying for].
     
 - **What motivates you?**
 
-Many people are motivated by money. I'm however, motivated by constatnly having goals I want to achieve, by being satisfied in my work,
+Many people are motivated by money. I'm, however, motivated by constantly having goals I want to achieve, by being satisfied in my work,
 and by being in a position where I can support my family.
 
 - **Where do you see yourself in the next 3–5 years?**
@@ -51,9 +52,7 @@ https://www.youtube.com/@strikoder ;)
 ## 2. Strengths and Weaknesses
 - **What are your strengths?**
 
-I excel at problem solving 
-I’d say my biggest strengths are [mention 2-3 strengths]. 
-For example, I’m very detail-oriented, which helped me catch a critical error in a project early on,
+I’m very detail-oriented, which helped me catch a critical error in a project early on,
 saving the company time and money.
 I’m also a great communicator; in my last role, I helped bridge the gap between the technical team and clients, ensuring everyone was on the same page.
 
@@ -71,19 +70,15 @@ This helped me stay on top of everything and remain calm under pressure. I also 
 
 - **How do you handle criticism?**
 
-I believe constrtuve critizisim helps me improved (mention smth about grad project) and how your felow students helped you improved and got the best graduatino project among friends in my class.
+I believe  constructive criticism helps me improve (mention smth about grad project, a big project your worked on ...etc) and how your felow students helped you improved and got the best graduatino project among friends in my class.
      
 - **How do you handle conflict with coworkers?**
 
-by always taking postive steps to rectify it quckly, I always try to solve it quickly.
+By always taking postive steps to rectify it quckly.
 Some would ask their manager to take care of a conflict, but I believe all team mebers should take resonsiblity for it as mature and professional adults.
 I will check my own actions to make sure I wasn't contribtuing to it before speaking to the othe peson in private to be both comfortable.
-
-- **Can you describe a time when you failed at something? How did you handle it?**
   
 - **What steps do you take to improve your skills continuously?**
-  
-- **Which certifications or skills are you planning to pursue next?**
 
 ---
 
