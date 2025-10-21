@@ -3,7 +3,19 @@
   Answer: State a clear number and scope. Example: “I’ve completed 12 full-scope engagements and ~30 targeted assessments across web, network, and AD environments.” Keep it factual and mention roles you held and types of tests.
 
 ## Network 
-COMING SOON
+Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+- 301: moved permanently
+- 307: temporary redirect 
+Client error responses (400 – 499)
+- 400: bad request
+- 401: unotherized
+- 403: forbidden
+- 404: not found
+- 405: method not allowed
+Server error responses (500 – 599)
+
 
 ## Web Application Security
 - **Does `eval(request.json['param'])` introduce a remote code execution (RCE) risk?**  
