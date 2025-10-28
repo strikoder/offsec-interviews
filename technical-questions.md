@@ -1,7 +1,3 @@
-most important question (OSI model) how internet works ..etc
-
----
-
 ## General
 
 - **What is penetration testing, and can you explain the difference between vulnerability scanning and pentesting?**
