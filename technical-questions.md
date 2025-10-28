@@ -15,6 +15,7 @@ Organizations often have a vulnerability assessment done because they are requir
 
 
 - **Can you describe the differences between risk analysis and penetration testing?**
+  
 Both risk analysis and penetration testing are important aspects of cybersecurity and can complement each other well. 
 
 A risk analysis is the process of studying all potential threats and faults that could lead to vulnerabilities in software. 
@@ -43,12 +44,14 @@ The phases and the order in which they are done can differ depending on who you 
 
 
 - **What makes a system vulnerable?**
+  
 There are various ways a system can be vulnerable, generally falling into the categories of:
 1-Patch management: Running an out-of-date service or application with a known vulnerability
 2-vulnerability management: A web application that is vulnerable to web application vulnerabilities such as those covered under the OWASP Top 10.
 3-configuration management: A misconfigured service (weak, default and re-used credentials, no authentication requried)
 
 - **How would you handle sensitive data or information you come across during a penetration test?**
+  
 Every vulnerability discovered on a client’s network can technically be considered sensitive data or information. Our job as a pentesting team is to help our clients improve security and teach them how they can do so. 
 
 As we document our findings, we must be careful and responsible with client data as we’re trusted to do right by them. Suppose we are doing a test for a healthcare provider. It is not my job as a tester to go poking around a database of protected health information (PHI) out of curiosity. 
@@ -66,9 +69,11 @@ Symmetric encryption uses a single shared key for both encryption and decryption
 Asymmetric encryption uses a public and private key pair. The public key is used for encrypting the data, while the private key is used to decrypt (or vice versa). This type of encryption is most commonly used for secure key exchange, digital signatures, and other forms of secure communication.
 
 - **How do you stay up-to-date with the latest security vulnerabilities and attack techniques?**
+  
 I use a mixture of passive and active learning to stay updated. Of course, I’m on social media sites. I’m intentional about following people who post IT and cybersecurity-focused content. I also subscribe to newsletters like SANs NewsBites & medium blogs. And I use sites like Hack The Box & tryhackme for active learning.
 
 - **What are the strengths and differences between Windows and Linux for web application testing?**
+  
 Windows and Linux both have strengths and weaknesses when it comes to web application testing. For beginners, Windows can be more user-friendly than Linux, which is more challenging to use. 
 
 However, Linux is much more reliable and secure in comparison to Windows. This is because inexperienced users often use Windows, making the OS more vulnerable to attackers. 
@@ -78,6 +83,7 @@ In terms of usability for web application testing, Linux has a wider variety of 
 Having said this, Windows can be easier to navigate and offers many commercial tools including microsoft cloud Azure and AD. It’s also important to consider that many organizations use Windows, meaning that pentesting from a Windows machine will much better mimic those real-world scenarios.
 
 - **Explain the CIA triad.**
+  
 Confidentiality, Integrity, Availability.
 
 Confidentiality: means data is only accessible to authorized parties. In pentesting check for data leaks, weak auth, exposed secrets.
