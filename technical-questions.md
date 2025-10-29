@@ -151,6 +151,8 @@ Check TCM Security reports, they are the best explaning this.
 
 - **Why Should Penetration Testing Be Carried out by a Third Party?**
 
+- risk vs threat vs vulnerability
+
 ---
 
 ## Network 
